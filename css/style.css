@@ -1,0 +1,21 @@
+body {
+    background-color: white
+  }
+  
+  .button {background-color: #4CAF50;} /* Green */
+
+  #bt-submit {
+    background-color: #4CAF50;
+  }
+
+  #bt-cancel {
+    background-color: red;
+  }
+
+  #p-word{ background-color: blue;
+    
+  }
+
+  #f-name{
+    color: aqua;
+  }
